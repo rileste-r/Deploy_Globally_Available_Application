@@ -6,7 +6,7 @@ This workshop will cover services needed to implement a globally highly availabl
 
  - Azure SQL Server
  - App Service
- - Load Balancer or Application Gateway
+ - Application Gateway
  - Traffic Manager
 
 
@@ -20,4 +20,3 @@ At the end of this workshop, you should have deployed globally available applica
 
 
 Let's start with deploying ! ! !
-
