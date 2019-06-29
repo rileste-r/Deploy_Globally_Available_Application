@@ -1,6 +1,6 @@
 # Module 01 - Prepare database layer
 
-#### <u>Exercise 1 - Provision Azure Logical SQL Server</u>
+#### Exercise 1 - Provision Azure Logical SQL Server
 
 In this exercise, you will create SQL Logical server in Azure, that will be able to host databases.
 
@@ -18,7 +18,7 @@ In this exercise, you will create SQL Logical server in Azure, that will be able
    - **Location:** Select Azure region. Recommended is any of European regions
    - All other setting leave on default values and click to **Create**
 
-   <u>Exercise 2 - Create database for application</u>
+#### Exercise 2 - Create database for application
 
 1. In Azure portal, click to **+ Create a resource** in right top corner of portal
 2. In Azure Marketplace pane, select **Databases** and then click to **SQL Database**
@@ -31,7 +31,7 @@ In this exercise, you will create SQL Logical server in Azure, that will be able
    - All other setting leave on default values and click to **Review + create**
 5. On **Review + create** tab, validate your configuration and click to **Create**
 
-#### <u>Exercise 3 - Provision Azure Logical SQL Server in different region</u>
+#### Exercise 3 - Provision Azure Logical SQL Server in different region
 
 1. In Azure portal, click to **+ Create a resource** in right top corner of portal
 
@@ -47,7 +47,7 @@ In this exercise, you will create SQL Logical server in Azure, that will be able
    - **Location:** Select different Azure region then selected in *Exercise 1*. Recommended is any of US regions
    - All other setting leave on default values and click to **Create**
 
-#### <u>Exercise 4 - Configure geo-replication for Azure SQL database</u>
+#### Exercise 4 - Configure geo-replication for Azure SQL database
 
 1. In Azure portal search bar, type **SQL servers** and select SQL server that you have created in *Exercise 1*
 2. In left pane of SQL server, select **Failover groups** under the **Settings**
