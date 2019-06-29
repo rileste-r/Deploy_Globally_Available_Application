@@ -2,7 +2,7 @@
 
 ### Exercise 1 - Provision Azure Logical SQL Server
 
-In this exercise, you will create SQL Logical server in Azure, that will be able to host databases.
+In this exercise, you will create SQL Logical servers in Azure, that will be able to host geo-replicated databases.
 
 1. In Azure portal, click to **+ Create a resource** in right top corner of portal
 2. In search box type **SQL server (logical server)**, and on SQL server (logical server) wizard page click to **Create**
