@@ -1,4 +1,4 @@
-# Module 01 - Prepare database layer
+# Module 01 - Deploy geo-replicated SQL database
 
 In this module, you will create SQL Logical servers in Azure, that will be able to host geo-replicated databases.
 

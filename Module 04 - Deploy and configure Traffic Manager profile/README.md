@@ -1,4 +1,4 @@
-# Module 04 - Deploy and configure Traffic Manager
+# Module 04 - Deploy and configure Traffic Manager profile
 
 In this module, you will deploy and configure Traffic Manager, in order to make your web application globally available.
 
