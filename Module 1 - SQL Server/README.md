@@ -1,8 +1,8 @@
 # Module 01 - Prepare database layer
 
-### Exercise 1 - Provision Azure Logical SQL Server
+In this module, you will create SQL Logical servers in Azure, that will be able to host geo-replicated databases.
 
-In this exercise, you will create SQL Logical servers in Azure, that will be able to host geo-replicated databases.
+### Exercise 1 - Provision Azure Logical SQL Server
 
 1. In Azure portal, click to **+ Create a resource** in right top corner of portal
 2. In search box type **SQL server (logical server)**, and on SQL server (logical server) wizard page click to **Create**
@@ -19,10 +19,10 @@ In this exercise, you will create SQL Logical servers in Azure, that will be abl
 
 1. In Azure portal, click to **+ Create a resource** in right top corner of portal
 2. In Azure Marketplace pane, select **Databases** and then click to **SQL Database**
-3. On tab **Basics** in **PROJECT DETAILS** define following:
+3. On tab **Basics** under **PROJECT DETAILS** define following:
    - **Subscription:** Select your subscription
    - **Resource group:** Select resource group where you want to deploy resource
-4. On tab **Basics** in **DATABASE DETAILS** define following:
+4. On tab **Basics** under **DATABASE DETAILS** define following:
    - **Database name:** Define database name
    - **Server:** Select SQL server that you have created in *Exercise 1*
    - All other setting leave on default values and click to **Review + create**

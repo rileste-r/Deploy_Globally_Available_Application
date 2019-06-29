@@ -1,4 +1,4 @@
-# Module 02 - Configure App service plan and Web App and deploy application
+# Module 02 - Provisioning App service plan / Web App and deploy applications
 
 In this module, you will create App Service plan and Web App, that will host your application.
 
