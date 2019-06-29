@@ -20,3 +20,4 @@ At the end of this workshop, you should have deployed globally available applica
 ```
 
 Let's start with deploying ! ! !
+
