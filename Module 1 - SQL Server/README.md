@@ -53,4 +53,4 @@ In this exercise, you will create SQL Logical server in Azure, that will be able
 
 ------
 
-**!!! At the end of this exercise, you will have geo-replicated SQL database for your application. !!!**
+**!!! At the end of this module, you will have geo-replicated SQL database for your application. !!!**
