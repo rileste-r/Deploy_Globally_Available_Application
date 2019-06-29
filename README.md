@@ -15,9 +15,7 @@ At the end of this workshop, you should have deployed globally available applica
 
 <div style="text-align:center" markdown="1">
 
-![] (https://raw.githubusercontent.com/PremiumEducation/Deploy_Globally_Available_Application/master/GloballyAvailableApplication.PNG)
-
-</div>
+![Alt Text](https://raw.githubusercontent.com/PremiumEducation/Deploy_Globally_Available_Application/master/GloballyAvailableApplication.PNG)
 
 
 
