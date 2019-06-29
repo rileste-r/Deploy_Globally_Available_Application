@@ -5,11 +5,8 @@
 In this exercise, you will create SQL Logical server in Azure, that will be able to host databases.
 
 1. In Azure portal, click to **+ Create a resource** in right top corner of portal
-
 2. In search box type **SQL server (logical server)**, and on SQL server (logical server) wizard page click to **Create**
-
 3. Create new SQL server using following parameters:
-
    - **Server name:** Must be unique
    - **Server admin login:** Define admin login username
    - **Password:** Define password
