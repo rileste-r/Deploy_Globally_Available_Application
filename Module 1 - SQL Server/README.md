@@ -51,6 +51,6 @@ In this exercise, you will create SQL Logical server in Azure, that will be able
    - **Database within the group**: Select databases that you want to be replicated. In this case, that is database created in *Exercise 2*
    - All other setting leave on default values and click to **Create**
 
+------
 
-
-At the end of this exercise, you will have geo-replicated SQL database for your application.
+**!!! At the end of this exercise, you will have geo-replicated SQL database for your application. !!!**
