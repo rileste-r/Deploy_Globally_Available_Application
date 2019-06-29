@@ -47,7 +47,7 @@ In this module, you will create Application Gateway, as a load balancing solutio
 15. On tab **Tags** select **Next : Review + create**
 16. On tab **Review + create** click to **Create**
 
-  **NOTE:** Deployment of Application Gateway will take up to 25 minutes. While you wait for deploying Application Gateway perform Exercise 2, in order to create Application Gateway for different Web App.
+> ***NOTE:*** *Deployment of Application Gateway will take up to 25 minutes. While you wait for deploying Application Gateway perform Exercise 2, in order to create Application Gateway for different Web App.*
 
 ### Exercise 2 - Provision and configure Application Gateway for second Web App and region
 
