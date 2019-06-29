@@ -13,10 +13,11 @@ This workshop will cover services needed to implement a globally highly availabl
 
 At the end of this workshop, you should have deployed globally available application, based on the following infrastructure diagram.
 
-<div style="text-align:center" markdown="1">
-
-![Alt Text](https://raw.githubusercontent.com/PremiumEducation/Deploy_Globally_Available_Application/master/GloballyAvailableApplication.PNG)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PremiumEducation/Deploy_Globally_Available_Application/master/GloballyAvailableApplication.PNG">
+</p>
 
 
 
 Let's start with deploying ! ! !
+
