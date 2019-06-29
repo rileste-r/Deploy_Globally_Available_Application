@@ -98,12 +98,12 @@ Once deployment is finished, you will be able to access to your web application 
 
 Once you note public IP address, try to reach your web application using this public IP address.
 
-> **NOTE:** If you receive Server Error **502 - Web server received an invalid response while acting as a gateway or proxy server**, most probably one of setting is not deployed correctly. To correct this issue, perform following steps:
+> ***NOTE:*** *If you receive Server Error **502 - Web server received an invalid response while acting as a gateway or proxy server**, most probably one of setting is not deployed correctly. To correct this issue, perform following steps:*
 >
-> - Go to the created Application Gateway
-> - In left pane select **HTTP settings**
-> - Click on created HTTP setting to edit, and check the checkbox **Use for App service**
-> - Click **Save** and wait few minutes to update is propagate
+> - *Go to the created Application Gateway*
+> - *In left pane select **HTTP settings***
+> - *Click on created HTTP setting to edit, and check the checkbox **Use for App service***
+> - *Click **Save** and wait few minutes to update is propagate*
 
 
 
