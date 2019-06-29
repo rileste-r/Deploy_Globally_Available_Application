@@ -1,0 +1,83 @@
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\AdatumWebsite.dll.config
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\AdatumWebsite.dll
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\AdatumWebsite.pdb
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\Antlr3.Runtime.dll
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\Microsoft.Web.Infrastructure.dll
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\Newtonsoft.Json.dll
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\System.Web.Helpers.dll
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\System.Web.Mvc.dll
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\System.Web.Optimization.dll
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\System.Web.Razor.dll
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\System.Web.WebPages.Deployment.dll
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\System.Web.WebPages.dll
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\System.Web.WebPages.Razor.dll
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\WebGrease.dll
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\System.Web.Helpers.xml
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\System.Web.Mvc.xml
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\System.Web.Optimization.xml
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\System.Web.Razor.xml
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\System.Web.WebPages.xml
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\System.Web.WebPages.Deployment.xml
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\System.Web.WebPages.Razor.xml
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\Newtonsoft.Json.xml
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\bin\Antlr3.Runtime.pdb
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\obj\Release\AdatumWebsite.csproj.CoreCompileInputs.cache
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\obj\Release\AdatumWebsite.dll
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\obj\Release\AdatumWebsite.pdb
+E:\Labfiles\Lab05\Starter\AdatumWebsite\AdatumWebsite\obj\Release\AdatumWebsite.csprojResolveAssemblyReference.cache
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\AdatumWebsite.dll.config
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\AdatumWebsite.dll
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\AdatumWebsite.pdb
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\Antlr3.Runtime.dll
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\Newtonsoft.Json.dll
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\System.Web.Helpers.dll
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\System.Web.Mvc.dll
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\System.Web.Optimization.dll
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\System.Web.Razor.dll
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\System.Web.WebPages.dll
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\System.Web.WebPages.Razor.dll
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\WebGrease.dll
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\System.Web.Helpers.xml
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\System.Web.Mvc.xml
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\System.Web.Optimization.xml
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\System.Web.Razor.xml
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\System.Web.WebPages.xml
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\System.Web.WebPages.Razor.xml
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\Newtonsoft.Json.xml
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\bin\Antlr3.Runtime.pdb
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\obj\Release\AdatumWebsite.csprojAssemblyReference.cache
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\obj\Release\AdatumWebsite.csproj.CoreCompileInputs.cache
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\obj\Release\AdatumWebsite.csproj.CopyComplete
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\obj\Release\AdatumWebsite.dll
+C:\MCT Download\Hands-On Azure Administrator\AdatumWebsite\AdatumWebsite\obj\Release\AdatumWebsite.pdb
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\AdatumWebsite.dll.config
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\AdatumWebsite.dll
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\AdatumWebsite.pdb
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\Antlr3.Runtime.dll
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\Newtonsoft.Json.dll
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\System.Web.Helpers.dll
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\System.Web.Mvc.dll
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\System.Web.Optimization.dll
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\System.Web.Razor.dll
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\System.Web.WebPages.dll
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\System.Web.WebPages.Razor.dll
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\WebGrease.dll
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\System.Web.Helpers.xml
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\System.Web.Mvc.xml
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\System.Web.Optimization.xml
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\System.Web.Razor.xml
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\System.Web.WebPages.xml
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\System.Web.WebPages.Razor.xml
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\Newtonsoft.Json.xml
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\bin\Antlr3.Runtime.pdb
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\obj\Release\AdatumWebsite.csprojAssemblyReference.cache
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\obj\Release\AdatumWebsite.csproj.CoreCompileInputs.cache
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\obj\Release\AdatumWebsite.csproj.CopyComplete
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\obj\Release\AdatumWebsite.dll
+C:\MCT Download\Hands-On Azure Administrator\WebApps\AdatumWebsite\AdatumWebsite\obj\Release\AdatumWebsite.pdb
