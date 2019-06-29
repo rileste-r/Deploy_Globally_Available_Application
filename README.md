@@ -4,8 +4,15 @@ Setting up a web application on the Azure platform today is no longer a "rocket 
 
 This workshop will cover services needed to implement a globally highly available application.
 
- - App Service
  - Azure SQL Server
- - Load Balancer
- - Application Gateway
+ - App Service
+ - Load Balancer or Application Gateway
  - Traffic Manager
+
+
+
+At the end of this workshop, you should have deployed globally available application, based on the following infrastructure diagram.
+
+
+
+Let's start with deploying ! ! !
