@@ -23,20 +23,14 @@ In this exercise, you will create SQL Logical server in Azure, that will be able
 #### Exercise 2 - Create database for application
 
 1. In Azure portal, click to **+ Create a resource** in right top corner of portal
-
 2. In Azure Marketplace pane, select **Databases** and then click to **SQL Database**
-
 3. On tab **Basics** in **PROJECT DETAILS** define following:
-
    - **Subscription:** Select your subscription
    - **Resource group:** Select resource group where you want to deploy resource
-
-4. # On tab **Basics** in **DATABASE DETAILS** define following:
-
+4. On tab **Basics** in **DATABASE DETAILS** define following:
    - **Database name:** Define database name
    - **Server:** Select SQL server that you have created in *Exercise 1*
    - All other setting leave on default values and click to **Review + create**
-
 5. On **Review + create** tab, validate your configuration and click to **Create**
 
 
