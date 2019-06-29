@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "configProperties": {
-      "System.GC.Concurrent": false,
-      "System.GC.Server": false
-    }
-  }
-}
