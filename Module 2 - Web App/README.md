@@ -39,15 +39,16 @@ In this module, you will create App Service plan and Web App, that will host you
 
 There are few different ways to deploy code of your application to Web App and make application visible on the internet. You can use Visual Studio, FTP, Azure DevOps and many different ways, but for simplification, in this exercise we will deploy code directly from Git repositorium.
 
-Information about other deploying methods, you can find on following links
-
-<https://docs.microsoft.com/en-us/azure/app-service/deploy-zip>
-
-<https://docs.microsoft.com/en-us/azure/app-service/deploy-ftp>
-
-<https://docs.microsoft.com/en-us/azure/app-service/deploy-content-sync>
-
-<https://docs.microsoft.com/en-us/azure/app-service/deploy-continuous-deployment>
+> *Information about other deploying methods, you can find on following links*
+>
+> *<https://docs.microsoft.com/en-us/azure/app-service/deploy-zip>*
+>
+> *<https://docs.microsoft.com/en-us/azure/app-service/deploy-ftp>*
+>
+> *<https://docs.microsoft.com/en-us/azure/app-service/deploy-content-sync>*
+>
+> *<https://docs.microsoft.com/en-us/azure/app-service/deploy-continuous-deployment*>
+>
 
 1. In Azure portal search bar, type **App Services** and select the Web App that you created in *Exercise 2*
 2. In left pane of App Service, select **Deployment Center** under **Deployment**
@@ -61,8 +62,9 @@ Information about other deploying methods, you can find on following links
 
 Once deployment is configured, in most cases within 30 seconds, you will be able to see deployment status. If code is successfully deployed, your application will be visible from the internet.
 
-**NOTE:** All of these exercises need to be performed again, in order to configured same web application in different Azure region.
+> ***NOTE:*** *All of these exercises need to be performed again, in order to configured same web application in different Azure region.*
 
 ------
 
 **!!! At the end of this module, you will have deployed the same web application to different Azure regions. !!!**
+
